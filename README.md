@@ -1,3 +1,3 @@
-# Travel Destinations
+#### Travel Destinations
 
-A template app to keep track of travel destinations.
+###### A template app to keep track of travel destinations.
